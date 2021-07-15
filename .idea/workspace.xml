@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25517fa5-0f10-42a9-9265-8e1f4aa285b9" name="Default Changelist" comment="" />
+    <list default="true" id="25517fa5-0f10-42a9-9265-8e1f4aa285b9" name="Default Changelist" comment="add">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-04/vue-02.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-04/vue-03.html" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +18,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01" />
+  </component>
   <component name="ProjectId" id="1vIbQuM7tGjAf5SsIxQh1ZsvMwe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/js" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -40,11 +52,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626252540473</updated>
-      <workItem from="1626252542414" duration="3534000" />
+      <workItem from="1626252542414" duration="5247000" />
+      <workItem from="1626315416800" duration="9049000" />
+      <workItem from="1626337976950" duration="2180000" />
+      <workItem from="1626340769497" duration="2095000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1626338916963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626338916964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
