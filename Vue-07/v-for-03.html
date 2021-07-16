@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <ul>
+    <li v-for="l in letters">{{l}}</li>
+  </ul>
+  <button @click="btnClick">按钮</button>
+</div>
+<script src="../js/vue.js"></script>
+<script>
+  const app = new Vue({
+    el: '#app',
+    data: {
+      letters: ['A', 'B', 'C', 'D']
+    },
+    methods: {
+      btnClick() {
+        // this.letters.push('d')
+        this.letters[0] = '2323'
+      }
+    }
+  })
+</script>
+</body>
+</html>

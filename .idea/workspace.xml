@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25517fa5-0f10-42a9-9265-8e1f4aa285b9" name="Default Changelist" comment="add">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-04/vue-02.html" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-04/vue-03.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-05/v-on-01.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-05/v-on-02.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-05/v-on-03.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-06/login-example-02.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-06/login-example-03(question).html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-06/v-if-01.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-06/v-show-04.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-07/v-for-01.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-07/v-for-02-key.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-07/v-for-03.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-07/v-for-work.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model/v-model-01.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model/v-model-02.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model/v-model-checkbox-04.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model/v-model-radio-03.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model/v-model-select-05.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/book/index.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/book/main.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/book/style.css" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/js/vue.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/js/vue.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +32,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1vIbQuM7tGjAf5SsIxQh1ZsvMwe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,12 +63,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/js" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jbr/bin/WebstormProjects/learn/VueJs01/Vue-09-v-model" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\WebStorm 2021.1\jbr\bin\WebstormProjects\learn\VueJs01\Vue-09-v-model" />
+      <recent name="D:\Program Files\JetBrains\WebStorm 2021.1\jbr\bin\WebstormProjects\learn\VueJs01\Vue-07" />
+      <recent name="D:\Program Files\JetBrains\WebStorm 2021.1\jbr\bin\WebstormProjects\learn\VueJs01\Vue-06" />
       <recent name="D:\Program Files\JetBrains\WebStorm 2021.1\jbr\bin\WebstormProjects\learn\VueJs01\js" />
     </key>
   </component>
@@ -55,7 +87,8 @@
       <workItem from="1626252542414" duration="5247000" />
       <workItem from="1626315416800" duration="9049000" />
       <workItem from="1626337976950" duration="2180000" />
-      <workItem from="1626340769497" duration="2095000" />
+      <workItem from="1626340769497" duration="4968000" />
+      <workItem from="1626406977350" duration="13770000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1626338916963</created>
@@ -64,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626338916964</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1626343072790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626343072790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -393,7 +393,7 @@
     silent: false,
 
     /**
-     * Show production mode tip message on boot?
+     * Show production mode tip message on book?
      */
     productionTip: "development" !== 'production',
 
