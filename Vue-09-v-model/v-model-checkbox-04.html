@@ -16,6 +16,9 @@
   <input type="checkbox" value="足球" v-model="hobbies">足球
   <input type="checkbox" value="羽毛球" v-model="hobbies">羽毛球
   {{hobbies}}
+  <label v-for="item in orgHobbies">
+    <input type="checkbox" :value="item" v-model="hobbies">{{item}}
+  </label>
 </div>
 <script src="../js/vue.js"></script>
 <script>
@@ -24,7 +27,8 @@
     data: {
       message: 'hello',
       isAgree: false,
-      hobbies: []
+      hobbies: [],
+      orgHobbies: ['篮球', '足球', '羽毛球']
     }
   })
 </script>
